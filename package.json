@@ -1,0 +1,19 @@
+{
+  "name": "create-vanilla",
+  "version": "1.0.0",
+  "description": "Create a vanilla HTML project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": ["boilerplate", "generate", "vanilla-html"],
+  "author": "Siddharth Shyniben <siddharth.muscat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nanoparse": "^1.0.0",
+    "planckcolors": "^1.2.0",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
